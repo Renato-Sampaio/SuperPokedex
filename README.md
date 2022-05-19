@@ -1,6 +1,6 @@
 <!-- PARA ESCOLHER AS CORES DAS LINGUAGENS USAR O SITE https://brandcolors.net/ -->
 ![ShielddoProjeto](https://img.shields.io/badge/Nome-SuperPokedex-b52e31.svg?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/badge/Versão-1.0.0-e9ebec.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Versão-1.0.0-da1884.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Framework-Bootstrap-511378.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Markup-HTML5-e34f26.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Style-CSS-002561.svg?style=for-the-badge)
