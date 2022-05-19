@@ -1,12 +1,16 @@
 <!-- PARA ESCOLHER AS CORES DAS LINGUAGENS USAR O SITE https://brandcolors.net/ -->
-![ShielddoProjeto](https://img.shields.io/badge/Nome-Projeto-b52e31.svg?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/badge/Versão-0.0.1-e9ebec.svg?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/badge/License-GNU-orange?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/badge/Linguagem-Escolhida-00c4cc.svg?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/github/repo-size/adrianoleitedasilva/Modelo?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/tokei/lines/github/adrianoleitedasilva/Modelo?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/github/stars/adrianoleitedasilva/Modelo?style=for-the-badge) 
-![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/Modelo?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Nome-SuperPokedex-b52e31.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Versão-1.0.0.-e9ebec.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Framework-Bootstrap-00c4cc.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Markup-HTML5-00c4cc.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Style-CSS-00c4cc.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Linguagem-JavaScript-00c4cc.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/github/repo-size/adrianoleitedasilva/SuperPokedex?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/tokei/lines/github/adrianoleitedasilva/SuperPokedex?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/github/stars/adrianoleitedasilva/SuperPokedex?style=for-the-badge) 
+![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/SuperPokedex?style=for-the-badge)
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
 
 <!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
 ![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/157747252-231fc7b4-ee96-45fb-a7e0-1278862b6b0f.png)
