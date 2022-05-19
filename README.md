@@ -30,6 +30,7 @@
 - CSS3
 - JavaScript
 - Bootstrap
+- Consumo da PokeAPI para recuperar as informações desejadas
 - Algum server para hospedar o projeto
 
 # Roadmap
