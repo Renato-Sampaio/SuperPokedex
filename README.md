@@ -9,7 +9,7 @@
 ![ShielddoProjeto](https://img.shields.io/tokei/lines/github/adrianoleitedasilva/SuperPokedex?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/stars/adrianoleitedasilva/SuperPokedex?style=for-the-badge) 
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/SuperPokedex?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/github/all-contributors/adrianoleitedasilva/SuperPokedex?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/github/all-contributors/adrianoleitedasilva/SuperPokedex/main?style=for-the-badge)
 
 <!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
 ![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/157747252-231fc7b4-ee96-45fb-a7e0-1278862b6b0f.png)
