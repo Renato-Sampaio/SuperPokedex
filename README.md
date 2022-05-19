@@ -11,8 +11,7 @@
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/SuperPokedex?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/github/contributors/adrianoleitedasilva/SuperPokedex?style=for-the-badge)
 
-<!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
-![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/157747252-231fc7b4-ee96-45fb-a7e0-1278862b6b0f.png)
+![SuperPokedex](https://user-images.githubusercontent.com/6373438/169290487-f687f1de-5e76-45e7-bd22-a6bdb1478d07.jpg)
 
 - [Descrição](#descrição)
 - [Tecnologias Envolvidas](#tecnologias-envolvidas)
@@ -23,7 +22,7 @@
 
 4 devs malucos que se juntaram para treinar seus conhecimentos em ***Front-end*** e ***Back-end***. E nada melhor do que um projeto nerd.
 
-![IMAGEM DO PROJETO](https://user-images.githubusercontent.com/6373438/157749627-e718fa74-f7ce-49e8-9ffa-81271f47daf5.png)
+![CAPA](https://user-images.githubusercontent.com/6373438/169291154-301f22a9-d3f5-43ef-8e61-406336ea624f.jpg)
 
 # Tecnologias Envolvidas
 
