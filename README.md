@@ -26,12 +26,12 @@
 
 # Tecnologias Envolvidas
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Consumo da PokeAPI para recuperar as informações desejadas
-- Algum server para hospedar o projeto
+- HTML5;
+- CSS3;
+- JavaScript;
+- Bootstrap;
+- PokeAPI para as informações;
+- Heroku, Netilify ou outro server para hospedar.
 
 # Roadmap
 - [x] Configuração do Projeto
